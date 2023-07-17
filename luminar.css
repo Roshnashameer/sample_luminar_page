@@ -6,3 +6,21 @@
     color: white;
     padding: 0;
 }
+
+@media screen and (max-width: 800px){
+    
+    
+
+.carousel-inner h1{
+    font-size: medium;
+    text-align: left;
+    
+
+}
+.carousel-inner P{
+    
+    text-align: left;
+    font-size: medium;
+}
+
+}
